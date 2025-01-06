@@ -49,3 +49,7 @@ Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiên
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefersonrobertors/)  
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Jogue Snake Game no meu perfil!" />
+</p>
