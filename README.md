@@ -45,7 +45,7 @@ Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiên
 
 ### 🌍 **Redes Sociais**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username-aqui/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-silva-87b977315/)  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefersonrobertors/)  
 
 ---
