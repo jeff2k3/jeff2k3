@@ -30,16 +30,20 @@ Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiên
 
 ---
 
-### 📊 **GitHub stats**
+### 📊 **GitHub stats**:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeff2k3&show_icons=true&theme=radical" alt="Jefferson's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeff2k3&theme=radical" alt="Jefferson's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeff2k3&show_icons=true&theme=radical" alt="Jeferson's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff2k3&layout=compact&theme=radical" alt="Jeferson's Most Used Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff2k3&layout=compact&theme=radical" alt="Jefferson's Most Used Languages" width="50%" />
-</p>
+<div class="center">
+
+  [![Jeferson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeff2k3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+</div>
+
 
 ---
 
