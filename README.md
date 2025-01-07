@@ -1,9 +1,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=flat-square&language=pt-BR)  
 # 👋 Olá, eu sou Jeferson Silva!  
 
-### 🚀 Desenvolvedor apaixonado por tecnologia e inovação!  
+### Desenvolvedor apaixonado por tecnologia e inovação!  🚀
 
-Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiência em diversas tecnologias do front-end ao back-end. Sempre em busca de novos desafios e aprendizados!
+<p>
+Sou Jeferson Silva, 21 anos de idade, e 5 anos de código, sou apaixonado por tecnologia, estou constantemente explorando o universo do desenvolvimento front-end e back-end.
+</p>
 
 ---
 
@@ -30,20 +32,14 @@ Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiên
 
 ---
 
-### 📊 **GitHub stats**:
+### 📊 **GitHub stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeff2k3&show_icons=true&theme=radical" alt="Jeferson's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff2k3&layout=compact&theme=radical" alt="Jeferson's Most Used Languages" width="48%" />
 </p>
 
-<div class="center">
-
   [![Jeferson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeff2k3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-</div>
-
 
 ---
 
