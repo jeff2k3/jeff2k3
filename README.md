@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=flat-square&language=pt-BR)  
 # 👋 Olá, eu sou Jeferson Silva!  
 
 ### 🚀 Desenvolvedor apaixonado por tecnologia e inovação!  
@@ -43,7 +43,7 @@ Bem-vindo ao meu perfil GitHub. Sou um entusiasta de programação com experiên
 
 ---
 
-### 🌍 **Redes Sociais**
+### 🌍 **Social Media**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-silva-87b977315/)  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefersonrobertors/)  
