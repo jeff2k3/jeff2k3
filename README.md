@@ -4,7 +4,7 @@
 ### Desenvolvedor apaixonado por tecnologia e inovação!  🚀
 
 <p>
-Sou Jeferson Silva, 21 anos de idade, e 5 anos de código, sou apaixonado por tecnologia, estou constantemente explorando o universo do desenvolvimento front-end e back-end.
+Sou Jeferson Silva, 22 anos de idade, e 5 anos de código, sou apaixonado por tecnologia, estou constantemente explorando o universo do desenvolvimento front-end e back-end.
 </p>
 
 ---
