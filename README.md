@@ -1,7 +1,8 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=flat-square&language=pt-BR)
+![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=for-the-badge&language=pt-BR)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
+![Estrelas](https://img.shields.io/github/stars/jeff2k3?style=for-the-badge&logo=github&color=F7DF1E&labelColor=181717)
 
 # 👋 Olá, eu sou Jeferson Silva!
-
 ### Desenvolvedor apaixonado por tecnologia e inovação! 🚀
 
 <p>
