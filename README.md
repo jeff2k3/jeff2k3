@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:E0234E&text=JEFERSON%20SILVA&fontColor=F0F6FC&fontSize=42&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=55&animation=fadeIn" alt="Jeferson Silva" />
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=jeff2k3&color=brightgreen&style=for-the-badge&language=pt-BR)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
 ![Estrelas](https://img.shields.io/github/stars/jeff2k3?style=for-the-badge&logo=github&color=F7DF1E&labelColor=181717)
